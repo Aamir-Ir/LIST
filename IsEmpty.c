@@ -13,6 +13,7 @@ bool isEmpty(myList * head) {
     }
 
     // Case 2: SInce head is not NULL (not empty) return false.
+    
     else{                   
         return false;
     }
