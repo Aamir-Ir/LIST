@@ -1,4 +1,4 @@
-# LIST
+# LIST-ADT---Linked-List-Implementation
 This project is a personal project of mine where I have implemented a list ADT as a Linked List. It contains the common operations performed by a simple list ADT which is append, prepend, insert, remove, search, print (forward), print (reverse), sort, is empty, and get length. Each file contains an operation which is explained through the comments.
 
 Memory:
