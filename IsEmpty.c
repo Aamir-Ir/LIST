@@ -12,7 +12,7 @@ bool isEmpty(myList * head) {
         return true;
     }
 
-    // Case 2: SInce head is not NULL (not empty) return false.
+    // Case 2: Since head is not NULL (not empty) return false.
     
     else{                   
         return false;
